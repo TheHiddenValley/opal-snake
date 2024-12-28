@@ -135,7 +135,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Wibe Studio
+          Opal the Ball Python
         </h3>
       </LogoContainer>
       <FooterComponent
@@ -151,22 +151,24 @@ const Footer = () => {
             home
           </li>
           <li aria-hidden="true" onClick={() => handleScroll(".about")}>
-            about
+            about me
           </li>
           <li aria-hidden="true" onClick={() => handleScroll("#shop")}>
-            shop
-          </li>
-          <li aria-hidden="true" onClick={() => handleScroll(".new-arrival")}>
-            new arrival
+            video gallery
           </li>
           <li>
             <a href="https://google.com" target={"_blank"} rel="noreferrer">
-              look book
+              twitter
             </a>
           </li>
           <li>
             <a href="https://google.com" target={"_blank"} rel="noreferrer">
-              reviews
+              dexscreener
+            </a>
+          </li>
+          <li>
+            <a href="https://google.com" target={"_blank"} rel="noreferrer">
+              telegram
             </a>
           </li>
         </ul>
@@ -176,20 +178,20 @@ const Footer = () => {
             data-scroll-speed="2"
             data-scroll-direction="horizontal"
           >
-            &copy; 2022. All Rights Reserved.
+            &copy; 2025. All Rights Reserved. For the New Year.
           </span>
           <span
             data-scroll
             data-scroll-speed="-2"
             data-scroll-direction="horizontal"
           >
-            Made with &hearts; by{" "}
+            
             <a
               href="http://devdreaming.com"
               target={"_blank"}
               rel="dofollow noreferrer"
             >
-              CodeBucks
+              
             </a>
           </span>
         </Bottom>

@@ -218,28 +218,24 @@ let t1= gsap.timeline();
       <Title
         data-scroll data-scroll-speed="-2" data-scroll-direction="horizontal"
       >
-        New Arrivals
+        New Year, New You
       </Title>
 
       <Container ref={ScrollingRef}>
-        <Photos img={img1} name="Denim" />
-        <Photos img={img2} name="Cool Dresses" />
-        <Photos img={img3} name="Jackets" />
-        <Photos img={img4} name="T-shirts" />
+        <Photos img={img1} name="omg" />
+        <Photos img={img2} name="i" />
+        <Photos img={img3} name="am" />
+        <Photos img={img4} name="live" />
       </Container>
 
       <Text data-scroll data-scroll-speed="-4">
-        There is new collection available for cool clothes in all sizes. This collection
-        is a great way to find a new look for you. It offers a variety of cool apparel
-        styles to fit your taste, while you can also find some cool clothes that you can
-        wear everyday.
+      Like a snake shedding its skin, embrace change to discover a new you. 
         <br />
         <br />
-        The first line of clothing you will see on this collection is for men. The
-        collection also includes three new styles for women.
+        Let us take this change and usher in the new year.
         <br />
         <br />
-        Give it a try and experience a new look.
+        Give it a try and experience a new year, new you.
       </Text>
     </Section>
   );

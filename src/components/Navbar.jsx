@@ -138,24 +138,40 @@ const Navbar = () => {
           whileTap={{ scale: 0.9, y: 0 }}
           onClick={() => handleScroll('.about')}
         >
-          <Link to="/">about</Link>
+          <Link to="/">about me</Link>
         </Item>
         <Item
           whileHover={{ scale: 1.1, y: -5 }}
           whileTap={{ scale: 0.9, y: 0 }}
           onClick={() => handleScroll('#shop')}
         >
-          <Link to="/">shop</Link>
+          <Link to="/">image gallery</Link>
         </Item>
 
         <Item
-          whileHover={{ scale: 1.1, y: -5 }}
-          whileTap={{ scale: 0.9, y: 0 }}
-          onClick={() => handleScroll('.new-arrival')}
-        >
-          {' '}
-          <Link to="/">new arrival</Link>
-        </Item>
+    whileHover={{ scale: 1.1, y: -5 }}
+    whileTap={{ scale: 0.9, y: 0 }}
+  >
+    <a href="https://www.dexscreener.com" target="_blank" rel="noopener noreferrer">
+      Dexscreener
+    </a>
+  </Item>
+  <Item
+    whileHover={{ scale: 1.1, y: -5 }}
+    whileTap={{ scale: 0.9, y: 0 }}
+  >
+    <a href="https://www.x.com" target="_blank" rel="noopener noreferrer">
+      Twitter
+    </a>
+  </Item>
+  <Item
+    whileHover={{ scale: 1.1, y: -5 }}
+    whileTap={{ scale: 0.9, y: 0 }}
+  >
+    <a href="https://www.telegram.com" target="_blank" rel="noopener noreferrer">
+      Telegram
+    </a>
+  </Item>
       </MenuItems>
     </NavContainer>
   );
