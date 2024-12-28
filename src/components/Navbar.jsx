@@ -161,7 +161,7 @@ const Navbar = () => {
     whileHover={{ scale: 1.1, y: -5 }}
     whileTap={{ scale: 0.9, y: 0 }}
   >
-    <a href="https://www.x.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/opalonsol/" target="_blank" rel="noopener noreferrer">
       Twitter
     </a>
   </Item>
@@ -169,7 +169,7 @@ const Navbar = () => {
     whileHover={{ scale: 1.1, y: -5 }}
     whileTap={{ scale: 0.9, y: 0 }}
   >
-    <a href="https://www.telegram.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://t.me/opaltheballpython" target="_blank" rel="noopener noreferrer">
       Telegram
     </a>
   </Item>
