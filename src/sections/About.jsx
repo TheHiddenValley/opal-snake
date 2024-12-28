@@ -151,7 +151,7 @@ const About = () => {
         Opal the ball python is a snake that launched on Solana with the original instagram account having 60,000 followers. 
         <br />
         <br />
-        Contract Address: 
+        Contract Address: EBLjwa4pb18ugRJgUYawrmCLRwU8UwcPfvgxmDcNpump
       </Left>
 
       <Right>
