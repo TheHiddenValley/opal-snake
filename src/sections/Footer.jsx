@@ -157,17 +157,18 @@ const Footer = () => {
             image gallery
           </li>
           <li>
-            <a href="https://google.com" target={"_blank"} rel="noreferrer">
+            <a href="
+https://x.com/opalonsol/" target={"_blank"} rel="noreferrer">
               twitter
             </a>
           </li>
           <li>
-            <a href="https://google.com" target={"_blank"} rel="noreferrer">
+            <a href="https://dexscreener.com" target={"_blank"} rel="noreferrer">
               dexscreener
             </a>
           </li>
           <li>
-            <a href="https://google.com" target={"_blank"} rel="noreferrer">
+            <a href="https://t.me/opaltheballpython" target={"_blank"} rel="noreferrer">
               telegram
             </a>
           </li>
@@ -187,7 +188,7 @@ const Footer = () => {
           >
             
             <a
-              href="http://devdreaming.com"
+              href="http://google.com"
               target={"_blank"}
               rel="dofollow noreferrer"
             >

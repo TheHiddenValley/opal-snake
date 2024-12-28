@@ -203,6 +203,9 @@ const Shop = () => {
         <p>
           Here are some snakey photos for you from me.
         </p>
+        <p>
+        Embrace the snakes role as a timeless cultural icon of mystery.
+        </p>
       </Left>
       <Right data-scroll ref={Horizontalref}>
         <Product img={img3} title="Beauty" />
