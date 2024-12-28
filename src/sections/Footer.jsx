@@ -154,7 +154,7 @@ const Footer = () => {
             about me
           </li>
           <li aria-hidden="true" onClick={() => handleScroll("#shop")}>
-            video gallery
+            image gallery
           </li>
           <li>
             <a href="https://google.com" target={"_blank"} rel="noreferrer">

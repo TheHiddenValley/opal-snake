@@ -197,11 +197,11 @@ const Shop = () => {
   return (
     <Section ref={ref} id="shop">
       <Title data-scroll data-scroll-speed="-1">
-        Video Gallery
+        Image Gallery
       </Title>
       <Left>
         <p>
-          Here are some snakey videos for you from me.
+          Here are some snakey photos for you from me.
         </p>
       </Left>
       <Right data-scroll ref={Horizontalref}>
