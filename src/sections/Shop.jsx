@@ -214,6 +214,7 @@ const Shop = () => {
         <Product img={img7} title="Serpents" />
         <Product img={img8} title="Seamless" />
         <Product img={img9} title="Motion" />
+        <Product img={img10} title="Always" />
       </Right>
     </Section>
   );

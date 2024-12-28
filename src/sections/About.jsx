@@ -137,12 +137,13 @@ const About = () => {
   return (
     <Section id="fixed-target" className="about">
       <Title
-        data-scroll
-        data-scroll-speed="-2"
-        data-scroll-direction="horizontal"
-      >
-        About Me
-      </Title>
+  data-scroll
+  data-scroll-speed="-2"
+  data-scroll-direction="horizontal"
+  style={{ color: 'white' }}
+>
+  About Me
+</Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
       Boop my snoot! I am an 8 year old ball python helping snakes be seen in a better light! 
         <br />
