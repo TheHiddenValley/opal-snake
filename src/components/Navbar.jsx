@@ -141,12 +141,13 @@ const Navbar = () => {
           <Link to="/">about me</Link>
         </Item>
         <Item
-          whileHover={{ scale: 1.1, y: -5 }}
-          whileTap={{ scale: 0.9, y: 0 }}
-          onClick={() => handleScroll('#shop')}
-        >
-          <Link to="/">image gallery</Link>
-        </Item>
+    whileHover={{ scale: 1.1, y: -5 }}
+    whileTap={{ scale: 0.9, y: 0 }}
+  >
+    <a href="https://www.instagram.com/opal_escent" target="_blank" rel="noopener noreferrer">
+      Instagram
+    </a>
+  </Item>
 
         <Item
     whileHover={{ scale: 1.1, y: -5 }}
